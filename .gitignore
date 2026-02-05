@@ -1,0 +1,9 @@
+.DS_Store
+/build
+/.dart_tool
+/.idea
+/.vscode
+/flutter_app/.packages
+/flutter_app/.flutter-plugins
+/node_modules
+/admin/build
